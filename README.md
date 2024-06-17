@@ -31,11 +31,6 @@ Angular Chat Application with Gemini is a cutting-edge chat application that int
 
 - **Multi-Language Support:** Expanding the app to support multiple languages for a wider user base.
 - **Voice Interaction:** Implementing voice commands for hands-free operation.
-- **Sentiment Analysis:** Integrating sentiment analysis to tailor responses based on the emotional tone of the conversation.
-
-## Contact
-
-For questions, comments, or suggestions, please reach out to us via email at [bazobehram@hotmail.com](mailto:bazobehram@hotmail.com).
 
 ## Important Note
 
@@ -45,7 +40,4 @@ A Google Cloud API key is required to access the Gemini language model. Please e
 
 - **UI Template:** Inspired by a design on [CodePen](https://codepen.io/supah/pen/jqOBqp).
 
-## Screenshots
-
-![chat](https://github.com/bazobehram/angular-chatapp-with-gemini-pro/assets/74256198/6637773e-bdea-42b0-ae37-d4c0ebcfb3fd)
 
